@@ -35,7 +35,7 @@ Medium:
 
 #### Create Story
 
-![image](https://github.com/2023-Summer-BootCamp-Team-I/.github/assets/83361012/e58d9a67-9778-4bdd-bb52-4ae6b72bfdc1)
+[<img src="https://github.com/2023-Summer-BootCamp-Team-I/MemoryCapsule/raw/develop/readme_image/ezgif.com-video-to-gif%20(1).gif" title=""/>]
 
 
 <hr>
@@ -44,11 +44,9 @@ Medium:
 
 #### Invitation
 
-![image](https://github.com/2023-Summer-BootCamp-Team-I/.github/assets/83361012/b845e3bb-e77e-4ba4-b4c3-ca80c9b9770d)
+[<img src="https://github.com/2023-Summer-BootCamp-Team-I/MemoryCapsule/raw/develop/readme_image/ezgif.com-video-to-gif%20(2).gif" title=""/>]
 
-
-![image](https://github.com/2023-Summer-BootCamp-Team-I/.github/assets/83361012/dae2d287-620c-4363-b01e-ffc604196ca9)
-
+[<img src="https://github.com/2023-Summer-BootCamp-Team-I/MemoryCapsule/raw/develop/readme_image/ezgif.com-video-to-gif%20(3).gif" title=""/>]
 
 <br>
 
@@ -60,7 +58,7 @@ Medium:
 영상 페이지에서는 스토리의 사진으로 제작된 비디오를 확인할 수 있습니다. 이후에 스토리를 선택하여 추가 비디오 제작이 가능합니다
 <br>
 
-![image](https://github.com/2023-Summer-BootCamp-Team-I/.github/assets/83361012/8eca6171-aad8-4e7d-9dbb-c91a047c9a0e)
+[<img src="https://github.com/2023-Summer-BootCamp-Team-I/MemoryCapsule/raw/develop/readme_image/ezgif.com-video-to-gif%20(4).gif" title=""/>]
 
 
 <hr>
