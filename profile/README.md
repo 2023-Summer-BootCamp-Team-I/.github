@@ -15,14 +15,14 @@ Medium:
 
 
 ## Login
-[<img src="https://github.com/2023-Summer-BootCamp-Team-I/MemoryCapsule/raw/develop/readme_image/readme-login.gif" title=""/>](https://github.com/2023-Summer-BootCamp-Team-I/MemoryCapsule/raw/develop/readme_image/readme-login.gif)
+[<img src="https://github.com/2023-Summer-BootCamp-Team-I/MemoryCapsule/raw/develop/readme_image/readme-login.gif" title=""/>]
 
 
 <br>
 
 ## Main Page
 #### Create Capsule
-[![image](https://github.com/2023-Summer-BootCamp-Team-I/.github/assets/83361012/f39a0618-3ced-49db-b427-24b66225fc0f)](https://github.com/2023-Summer-BootCamp-Team-I/MemoryCapsule/blob/develop/readme_image/ezgif.com-video-to-gif%20(1).gif?raw=true)
+https://github.com/2023-Summer-BootCamp-Team-I/MemoryCapsule/raw/develop/readme_image/ezgif.com-video-to-gif.gif
 
 메인 페이지에서 캡슐을 생성할 수 있습니다.
 
