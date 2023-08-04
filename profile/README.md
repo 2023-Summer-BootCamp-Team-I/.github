@@ -176,6 +176,28 @@ slack으로 알림을 보내 실시간으로 처리할 수 있게 하였습니�
 <br>
 <br>
 
+How to Start
+clone repository
+```
+clone url
+```
+
+Env Setting -> set .env 어디 위치하는 지 어떻게 넣어야하는지
+- /backend/bacnesdf/.env 
+```
+DB_USERNAME =
+MYSQL = 
+```
+
+Run Docker
+
+Directory Structure
+```bash
+```
+
+<br>
+<br>
+
 ## 👨‍👩‍👧‍👦 Team
 
 
