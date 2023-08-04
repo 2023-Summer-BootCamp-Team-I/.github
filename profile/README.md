@@ -96,7 +96,7 @@ swagger를 사용하여 API 명세서를 작성 하였습니다.
 <img src="./readme_image/user.png" title=""/>
 
 ### capsule
-<img src="./readme_image/capsule.png" title=""/>
+[<img src="./readme_image/capsule.png" title=""/>](https://github.com/2023-Summer-BootCamp-Team-I/MemoryCapsule/blob/develop/readme_image/capsule.png?raw=true)
 
 ### story
 <img src="./readme_image/story.png" title=""/>
