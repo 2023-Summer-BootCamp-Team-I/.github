@@ -176,7 +176,7 @@ slack으로 알림을 보내 실시간으로 처리할 수 있게 하였습니�
 <br>
 <br>
 
-## How to Start
+## 🏁 How to Start
 
 ### 1. Clone Repository
 ```
