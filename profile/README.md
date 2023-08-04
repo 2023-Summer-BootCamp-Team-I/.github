@@ -186,4 +186,4 @@ slack으로 알림을 보내 실시간으로 처리할 수 있게 하였습니�
 | GitHub  | [@devGEP](https://github.com/devGEP)                                     | [@koreaGorilla](https://github.com/koreaGorilla)                           | [@1-yuna](https://github.com/1-yuna)                                  | [@JaeBin2019](https://github.com/JaeBin2019)                          | [@yoojaeyoonGit](https://github.com/yoojaeyoonGit)                        | [@kiminni](https://github.com/kiminni)                                    |
 
 
-[Medium]: <http://daringfireball.net/projects/markdown/>
+[Medium]: <https://medium.com/@may1998/memory-capsule-e82cbda87b25/>
