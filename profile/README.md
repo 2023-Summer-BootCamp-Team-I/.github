@@ -180,20 +180,68 @@ slack으로 알림을 보내 실시간으로 처리할 수 있게 하였습니�
 
 ### 1. Clone Repository
 ```
-clone url
+$ git clone https://github.com/2023-Summer-BootCamp-Team-I/MemoryCapsule.git
 ```
 
 ### 2. Env Setting
-- /backend/bacnesdf/.env 
+- backend/db/.env
 ```
-DB_USERNAME =
-MYSQL = 
+MYSQL_DATABASE=
+MYSQL_ROOT_USER=
+MYSQL_ROOT_PASSWORD=
+```
+
+- backend/django_back/django_back/.env
+```
+SECRET_KEY=
+JWT_SECRET_KEY=
+ALGORITHM=
+
+DATABASE_NAME=
+DATABASE_USER=
+DATABASE_PASS=
+DATABASE_HOST=
+DATABASE_POST=
+
+AWS_REGION=
+AWS_STORAGE_BUCKET_NAME=
+AWS_ACCESS_KEY_ID=
+AWS_SECRET_ACCESS_KEY=
+
+GRAFANA_API_KEY=
+```
+
+- backend/django_back/api/.env (메세지 전송용)
+```
+ACCESS_TOKEN=
+REST_API_KEY=
+HOST_PHONE_NUMBER=
+CAPSULE_IMAGE_ID=
+```
+
+- backend/django_back/api/lib/config.ini (메세지 전송용)
+```
+[AUTH]
+api_key = 
+api_secret = 
+
+[SERVER]
+domain = 
+protocol = 
+prefix =
+```
+
+- frontend/.env
+```
+VITE_APP_KAKAO_API_KEY=
 ```
 
 ### 3. Run Docker
 ```
-run 어케해?
+$ docker-compose up --build
 ```
+
+
 
 <br>
 <br>
