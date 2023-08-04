@@ -15,7 +15,7 @@ Medium:
 
 
 ## Login
-![image](https://github.com/2023-Summer-BootCamp-Team-I/.github/assets/83361012/9fdd0132-c8c2-4462-ba19-4866e5294801)
+<img src="https://github.com/2023-Summer-BootCamp-Team-I/MemoryCapsule/raw/develop/readme_image/readme-login.gif" title=""/>
 
 
 <br>
