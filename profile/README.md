@@ -15,14 +15,14 @@ Medium:
 
 
 ## Login
-[<img src="https://github.com/2023-Summer-BootCamp-Team-I/MemoryCapsule/raw/develop/readme_image/readme-login.gif" title=""/>]
+<img src="https://github.com/2023-Summer-BootCamp-Team-I/MemoryCapsule/raw/develop/readme_image/readme-login.gif" title=""/>
 
 
 <br>
 
 ## Main Page
 #### Create Capsule
-[<img src="https://github.com/2023-Summer-BootCamp-Team-I/MemoryCapsule/raw/develop/readme_image/ezgif.com-video-to-gif.gif" title=""/>]
+<img src="https://github.com/2023-Summer-BootCamp-Team-I/MemoryCapsule/raw/develop/readme_image/ezgif.com-video-to-gif.gif" title=""/>
 
 메인 페이지에서 캡슐을 생성할 수 있습니다.
 
@@ -35,7 +35,7 @@ Medium:
 
 #### Create Story
 
-[<img src="https://github.com/2023-Summer-BootCamp-Team-I/MemoryCapsule/raw/develop/readme_image/ezgif.com-video-to-gif%20(1).gif" title=""/>]
+<img src="https://github.com/2023-Summer-BootCamp-Team-I/MemoryCapsule/raw/develop/readme_image/ezgif.com-video-to-gif%20(1).gif" title=""/>
 
 
 <hr>
@@ -44,9 +44,9 @@ Medium:
 
 #### Invitation
 
-[<img src="https://github.com/2023-Summer-BootCamp-Team-I/MemoryCapsule/raw/develop/readme_image/ezgif.com-video-to-gif%20(2).gif" title=""/>]
+<img src="https://github.com/2023-Summer-BootCamp-Team-I/MemoryCapsule/raw/develop/readme_image/ezgif.com-video-to-gif%20(2).gif" title=""/>
 
-[<img src="https://github.com/2023-Summer-BootCamp-Team-I/MemoryCapsule/raw/develop/readme_image/ezgif.com-video-to-gif%20(3).gif" title=""/>]
+<img src="https://github.com/2023-Summer-BootCamp-Team-I/MemoryCapsule/raw/develop/readme_image/ezgif.com-video-to-gif%20(3).gif" title=""/>
 
 <br>
 
@@ -58,7 +58,7 @@ Medium:
 영상 페이지에서는 스토리의 사진으로 제작된 비디오를 확인할 수 있습니다. 이후에 스토리를 선택하여 추가 비디오 제작이 가능합니다
 <br>
 
-[<img src="https://github.com/2023-Summer-BootCamp-Team-I/MemoryCapsule/raw/develop/readme_image/ezgif.com-video-to-gif%20(4).gif" title=""/>]
+<img src="https://github.com/2023-Summer-BootCamp-Team-I/MemoryCapsule/raw/develop/readme_image/ezgif.com-video-to-gif%20(4).gif" title=""/>
 
 
 <hr>
