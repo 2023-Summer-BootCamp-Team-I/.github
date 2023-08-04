@@ -15,13 +15,15 @@ Medium:
 
 
 ## Login
-<img src="./readme_image/readme-login.gif" title=""/>
+![image](https://github.com/2023-Summer-BootCamp-Team-I/.github/assets/83361012/9fdd0132-c8c2-4462-ba19-4866e5294801)
+
 
 <br>
 
 ## Main Page
 #### Create Capsule
-<img src="./readme_image/ezgif.com-video-to-gif.gif" title=""/>
+![image](https://github.com/2023-Summer-BootCamp-Team-I/.github/assets/83361012/f39a0618-3ced-49db-b427-24b66225fc0f)
+
 메인 페이지에서 캡슐을 생성할 수 있습니다.
 
 <br>
@@ -33,7 +35,8 @@ Medium:
 
 #### Create Story
 
-<img src="./readme_image/ezgif.com-video-to-gif (1).gif" title=""/>
+![image](https://github.com/2023-Summer-BootCamp-Team-I/.github/assets/83361012/e58d9a67-9778-4bdd-bb52-4ae6b72bfdc1)
+
 
 <hr>
 <br>
@@ -41,9 +44,11 @@ Medium:
 
 #### Invitation
 
-<img src="./readme_image/ezgif.com-video-to-gif (2).gif" title=""/>
+![image](https://github.com/2023-Summer-BootCamp-Team-I/.github/assets/83361012/b845e3bb-e77e-4ba4-b4c3-ca80c9b9770d)
 
-<img src="./readme_image/ezgif.com-video-to-gif (3).gif" title=""/>
+
+![image](https://github.com/2023-Summer-BootCamp-Team-I/.github/assets/83361012/dae2d287-620c-4363-b01e-ffc604196ca9)
+
 
 <br>
 
@@ -55,14 +60,16 @@ Medium:
 영상 페이지에서는 스토리의 사진으로 제작된 비디오를 확인할 수 있습니다. 이후에 스토리를 선택하여 추가 비디오 제작이 가능합니다
 <br>
 
-<img src="./readme_image/ezgif.com-video-to-gif (4).gif" title=""/>
+![image](https://github.com/2023-Summer-BootCamp-Team-I/.github/assets/83361012/8eca6171-aad8-4e7d-9dbb-c91a047c9a0e)
+
 
 <hr>
 <br>
 <br>
 
 ## 💻 System Architecture
-<img src="./readme_image/system.png" title=""/>
+![image](https://github.com/2023-Summer-BootCamp-Team-I/.github/assets/83361012/81e94b42-a11e-4100-baee-a364d9d91955)
+
 
 <hr>
 <br>
@@ -82,7 +89,8 @@ Medium:
 <br>
 
 ## 💽 ERD
-<img src="./readme_image/erd.png" title=""/>
+![image](https://github.com/2023-Summer-BootCamp-Team-I/.github/assets/83361012/e14fe2ac-1905-4c8a-9a79-b17c4243d603)
+
 
 <hr>
 <br>
@@ -93,17 +101,20 @@ swagger를 사용하여 API 명세서를 작성 하였습니다.
 <hr>
 
 ### user
-<img src="./readme_image/user.png" title=""/>
+![image](https://github.com/2023-Summer-BootCamp-Team-I/.github/assets/83361012/974926fe-257e-4c39-8fea-9f554fdda40f)
+
 
 ### capsule
 ![image](https://github.com/2023-Summer-BootCamp-Team-I/.github/assets/83361012/faf50c7d-d695-4cae-bda6-e839b4815878)
 
 
 ### story
-<img src="./readme_image/story.png" title=""/>
+![image](https://github.com/2023-Summer-BootCamp-Team-I/.github/assets/83361012/e8edaff8-a816-4668-af9a-c320ecdc9556)
+
 
 ### video
-<img src="./readme_image/video.png" title=""/>
+![image](https://github.com/2023-Summer-BootCamp-Team-I/.github/assets/83361012/4c08a5fa-fc27-46e7-bca0-1b210986a8db)
+
 
 <hr>
 
@@ -114,7 +125,8 @@ swagger를 사용하여 API 명세서를 작성 하였습니다.
 ## 📚 Asynchronous
 비교적 시간이 많이 걸리는 비디오 생성 작업은 Celery를 활용하여 비동기 처리됩니다. <br/>
 
-<img src="./readme_image/celery.png" title=""/>
+![image](https://github.com/2023-Summer-BootCamp-Team-I/.github/assets/83361012/d50fee9c-3d50-4aca-80b0-c16b145a316f)
+
 
 
 <br>
@@ -135,13 +147,16 @@ slack으로 알림을 보내 실시간으로 처리할 수 있게 하였습니�
 
 ### Django
 
-<img src="./readme_image/django.png" title=""/>
+![image](https://github.com/2023-Summer-BootCamp-Team-I/.github/assets/83361012/7e08d98d-d59c-4eed-88aa-30607c0386a4)
+
 
 ### Node exporter
-<img src="./readme_image/node_exporter.png" title=""/>
+![image](https://github.com/2023-Summer-BootCamp-Team-I/.github/assets/83361012/96156966-a6f0-4104-a73d-9adf1247fe26)
+
 
 ### ELK
-<img src="./readme_image/elk.png" title=""/>
+![image](https://github.com/2023-Summer-BootCamp-Team-I/.github/assets/83361012/634c2536-85a8-4a2b-910c-4538e5ac4c8b)
+
 
 <hr>
 <br>
@@ -152,7 +167,8 @@ slack으로 알림을 보내 실시간으로 처리할 수 있게 하였습니�
 
 <hr>
 
-<img src="./readme_image/video_make.png" title=""/>
+![image](https://github.com/2023-Summer-BootCamp-Team-I/.github/assets/83361012/efce450a-10a1-4112-a62c-17d48ed51980)
+
 <br> 
 
 캡슐이 개봉되면 유저가 추가한 이미지는 opencv가 다운로드 받습니다. 다운로드 받아진 이미지들은 numpy를 통해 이미지를 균일하게 resize하고, 색상 처리 작업을 진행합니다. 이후 처리 완료된 
