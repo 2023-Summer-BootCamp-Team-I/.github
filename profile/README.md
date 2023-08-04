@@ -82,7 +82,7 @@ Medium:
 <br>
 
 ## 💽 ERD
-<img src="./readme_image/erd.png" title=""/>Z
+<img src="./readme_image/erd.png" title=""/>
 
 <hr>
 <br>
