@@ -3,7 +3,7 @@
 타임캡슐 생성 후 친구들을 초대해 사진과 이야기를 공유하고, 지정된 날짜에 합쳐진 컨텐츠를 모두에게 전송하는 플랫폼
 
 <br>
-[Medium](https://medium.com/@say004972/roll-it-online-rolling-paper-service-b2b4e23a47b8)
+###[Medium](https://medium.com/@may1998/memory-capsule-e82cbda87b25)
 
 <hr style="border: none; border-top: 3px solid grey;">
 <br>
