@@ -22,7 +22,7 @@ Medium:
 
 ## Main Page
 #### Create Capsule
-https://github.com/2023-Summer-BootCamp-Team-I/MemoryCapsule/raw/develop/readme_image/ezgif.com-video-to-gif.gif
+[<img src="https://github.com/2023-Summer-BootCamp-Team-I/MemoryCapsule/raw/develop/readme_image/ezgif.com-video-to-gif.gif" title=""/>]
 
 메인 페이지에서 캡슐을 생성할 수 있습니다.
 
